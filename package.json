@@ -1,0 +1,22 @@
+{
+  "name": "pretty-radius",
+  "version": "1.0.0",
+  "description": "package for adding border radius to HTML elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sulaiman830/prettyRadius.git"
+  },
+  "keywords": [
+    "border-radius"
+  ],
+  "author": "sulaiman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sulaiman830/prettyRadius/issues"
+  },
+  "homepage": "https://github.com/Sulaiman830/prettyRadius#readme"
+}
